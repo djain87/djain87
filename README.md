@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djain87
 
-- 🌱 I’m currently learning code in Python
+
 
 
 
