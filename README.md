@@ -15,7 +15,7 @@ camp provided me with valuable
 exposure to Python, Shell Scripting,
 GitHub, and working within an 
 Agile framework, expanding my 
-technical skill set and adaptability
+technical skill set and adaptability.
 
 
 
