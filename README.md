@@ -1,24 +1,5 @@
 - 👋 Hi, I’m @djain87
-
-With 3+ years of hands-on 
-experience as an ERP Consultant, I 
-am eager to transition into a Data 
-Analyst role where I can utilize my 
-extensive knowledge and analytical 
-skills. 
-I have recently completed an
-intensive Data Analyst boot camp 
-which helped me to refine my SQL 
-Knowledge, Power BI and Data 
-Visualization. Additionally, the boot 
-camp provided me with valuable 
-exposure to Python, Shell Scripting,
-GitHub, and working within an 
-Agile framework, expanding my 
-technical skill set and adaptability.
-
-
-
+Results-oriented Data Analyst with over 3 years of experience, showcasing a strong foundation in optimizing user access controls and reporting systems. A graduate of a Data Analyst Bootcamp, I possess proficiency in Python, Power BI, SQL, and GitHub. My expertise lies in data extraction, cleaning, and transformation, with a proven track record of conducting in-depth analysis on large datasets to deliver actionable insights. I am now seeking a challenging role in a Data Analyst position to leverage diverse skills and contribute to data-driven decision-making processes.
 
 <!---
 djain87/djain87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
